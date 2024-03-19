@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FERIADOS 2024</title>
+</head>
+<body>
+    <h1>
+        <b>FERIADOS 2024</b>
+    </h1>
+        <ol>
+            <li><b>Enero</b></li>
+            <ul>
+                <li>1- Año nuevo</li>
+            </ul>
+            <li><b>Febrero</b></li> 
+            <ul>
+                <li>12- Carnaval                </li>
+                <li>13- Carnaval</li>
+            </ul>
+            <li><b>Marzo</b></li>
+            <ul>
+                <li>24- Dia Nacional de la Memoria por la verdad y la justicia</li>
+                <li>28- Jueves Santo</li>
+                <li>29- Viernes Santo</li>
+            </ul>
+            <li><b>Abril</b></li>
+            <ul>
+                <li>1- Feriado con fines turisticos</li> 
+                <li>2- Dia del Veterano y de los Caídos en la Guerra de Malvinas</li>
+                <li>10- Fiesta de la ruptura del ayuno del sagrado mes del Ramadan</li>
+                <li>23,24- Primeros dos dias de la Pascua Judia</li>
+                <li>24- Dia De accion por la tolerancia y el respeto entre pueblos</li>
+                <li>29, 30 Ultimos dos dias de la Pascua Judia</li> 
+                      
+        </ul>
+            <li><b>Mayo</b></li>
+            <ul>
+                <li>1- Dia del trabajador</li>
+                <li>25- Dia de la revolucion de mayo</li>
+            </ul>
+            <li><b>Junio</b></li>
+            <ul>
+                <li>17- Paso a la inmortalidad del General. Don Martin Miguel de Güemes</li>
+                <li>20- Paso a la inmortalidad del Geral. Manuel Belgrano</li>
+                <li>21- Feriado con fines turisticos</li>
+
+            </ul>
+            <li><b>Julio</b></li>
+             <ul> 
+                <li>9- Dia de la Independencia</li>
+            </ul>
+            <li><b>Agosto</b></li>
+            <ul>
+                <li>17- Paso a la Inmortalidad del Gral. Jose de San Martin</li>
+            </ul>
+            <li><b>Septiembre</b></li>
+        
+
+            <li><b>Octubre</b></li> 
+            <ul>
+            <li>11- Feriado con fines turisticos</li>
+            <li>12- Dia del Respeto a la Diversidad Cultural</li>
+           </ul>
+            <li><b>Noviembre</b></li> 
+            <ul>
+                <li>18- Dia de la Soberania Nacional</li>
+            </ul>
+            <li><b>Diciembre</b></li>
+            <ul>
+                <li>8- Inmaculada Concepcion de Maria</li>
+                <li>25- Navidad</li>
+            </ul>
+        </ol>
+    
+
+
+    <p> Para comunicarte con nosotros hace click <a href="mailto:milagrostbritezm@gmail.com">aquí</a></p>
+</body>
+</html>
