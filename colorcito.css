@@ -1,0 +1,10 @@
+* {
+    margin: 10px; /*margin establece el margen para los cuatro lados*/
+    padding: 5px; /*padding establece el espacio de relleno*/
+    background-color: lightblue; /*cambia el color de relleno*/
+    font-family: cursive; /*cambia el tipo de letra*/
+    }
+    textarea{
+    background-color: violet;
+    }
+    
