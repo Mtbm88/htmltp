@@ -7,4 +7,7 @@
     textarea{
     background-color: violet;
     }
+    input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) {
+    background-color: lightgreen;
+    }
     
